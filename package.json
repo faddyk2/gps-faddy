@@ -1,0 +1,18 @@
+{
+  "name": "gps-fahad",
+  "version": "1.2.0",
+  "description": "A library that uses puppeteer to interact with google maps to get various data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["distance", "cities", "puppeteer"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^22.6.1"
+  },
+  "bin": {
+    "gps-fahad": "./gps-fahad.js"
+  }
+}
