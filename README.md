@@ -1,13 +1,13 @@
 # gps-lib
 
 ## Description
-gps-lib is a Node.js library that leverages Puppeteer to interact with Google Maps and retrieve various data, primarily focusing on calculating distances between cities.
+gps-libr is a Node.js library that leverages Puppeteer to interact with Google Maps and retrieve various data, primarily focusing on calculating distances between cities.
 
 ## Installation
-To install gps-lib, you can use npm:
+To install gps-libr, you can use npm:
 
 ```bash
-npm install gps-lib
+npm install gps-libr
 
 
 ### Node.js Application
