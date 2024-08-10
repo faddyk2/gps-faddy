@@ -1,5 +1,5 @@
 {
-  "name": "gps-fahad",
+  "name": "gps-libra",
   "version": "1.2.0",
   "description": "A library that uses puppeteer to interact with google maps to get various data",
   "main": "index.js",
