@@ -1,4 +1,4 @@
-# gps-lib
+# gps-libr
 
 ## Description
 gps-libr is a Node.js library that leverages Puppeteer to interact with Google Maps and retrieve various data, primarily focusing on calculating distances between cities.
