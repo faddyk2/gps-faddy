@@ -1,27 +1,27 @@
-# GPS Fahad
+# gps-lib
 
 ## Description
-GPS Fahad is a Node.js library that leverages Puppeteer to interact with Google Maps and retrieve various data, primarily focusing on calculating distances between cities.
+gps-lib is a Node.js library that leverages Puppeteer to interact with Google Maps and retrieve various data, primarily focusing on calculating distances between cities.
 
 ## Installation
-To install GPS Fahad, you can use npm:
+To install gps-lib, you can use npm:
 
 ```bash
-npm install gps-fahad
+npm install gps-lib
 
 
 ### Node.js Application
 
-To use GPS Fahad in your Node.js application:
+To use gps-lib in your Node.js application:
 
 1. Install the library via npm:
 
-npm install gps-fahad
+npm install gps-lib
 
 2
 ## Usage
 
-const { getDistanceBetweenCities } = require('gps-fahad');
+const { getDistanceBetweenCities } = require('gps-lib');
 Call the getDistanceBetweenCities function with the origin and destination cities as arguments:
 const origin = "New York";
 const destination = "Los Angeles";
